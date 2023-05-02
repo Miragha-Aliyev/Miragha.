@@ -1,2 +1,2 @@
-# Miragha.
+# Miragha
 My work
